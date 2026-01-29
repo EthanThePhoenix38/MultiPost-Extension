@@ -537,6 +537,10 @@
     "message": "Toutiaohao",
     "description": "Platform name for Toutiaohao"
   },
+  "platformMaimai": {
+    "message": "Maimai",
+    "description": "Platform name for Maimai"
+  },
   "optionsFeedbackPrefix": {
     "message": "Missing a platform you need?"
   },
@@ -660,6 +664,50 @@
   "platformBaijiahao": {
     "message": "Baijiahao",
     "description": "Platform name for Baijiahao"
+  },
+  "platformQiE": {
+    "message": "QiE",
+    "description": "Platform name for QiE"
+  },
+  "platformChejiahao": {
+    "message": "Chejiahao",
+    "description": "Platform name for Chejiahao"
+  },
+  "platformDewu": {
+    "message": "Dewu",
+    "description": "Platform name for Dewu"
+  },
+  "platformYiche": {
+    "message": "Yiche",
+    "description": "Platform name for Yiche"
+  },
+  "platformSohu": {
+    "message": "Sohu",
+    "description": "Platform name for Sohu"
+  },
+  "platformNetease": {
+    "message": "NetEase",
+    "description": "Platform name for NetEase"
+  },
+  "platformDayu": {
+    "message": "Dayu",
+    "description": "Platform name for Dayu"
+  },
+  "platformAlipay": {
+    "message": "Alipay",
+    "description": "Platform name for Alipay"
+  },
+  "platformYidian": {
+    "message": "Yidian",
+    "description": "Platform name for Yidian"
+  },
+  "platformPinduoduo": {
+    "message": "Pinduoduo",
+    "description": "Platform name for Pinduoduo"
+  },
+  "platformVivoVideo": {
+    "message": "Vivo Video",
+    "description": "Platform name for Vivo Video"
   },
   "platformToutiao": {
     "message": "Toutiao",
@@ -1029,5 +1077,9 @@
   "publishAutoCloseCountdown": {
     "message": "Auto close in $1 seconds",
     "description": "Auto close countdown text for publish page"
+  },
+  "platformSubstack": {
+    "message": "Substack",
+    "description": "Substack platform name"
   }
 }
